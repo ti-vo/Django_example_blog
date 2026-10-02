@@ -5,6 +5,10 @@ This project demonstrates the practical implementation of Django concepts, inclu
 
 ---
 
+## Demo
+ 
+![Demo of the Pokemon Catch Tracker](demo.gif)
+
 ## Features
 
 - **Post Management**: Create, read, update, and delete blog posts.
